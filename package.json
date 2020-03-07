@@ -3,8 +3,7 @@
 	"version": "1.0.1",
 	"api_version": "1.0.0",
 	"keywords": [
-		"Projector",
-		"Optoma"
+		"Projector"
 	],
 	"manufacturer": "Optoma",
 	"product": ["Z28S", "ZH400UST"],
